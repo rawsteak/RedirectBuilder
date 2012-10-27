@@ -1,0 +1,8 @@
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\obj\Debug\RedirectBuilder.Form1.resources
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\obj\Debug\RedirectBuilder.Properties.Resources.resources
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\obj\Debug\RedirectBuilder.csproj.GenerateResource.Cache
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\bin\Debug\RedirectBuilder.exe
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\bin\Debug\RedirectBuilder.pdb
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\obj\Debug\RedirectBuilder.exe
+C:\Documents and Settings\ribanez\My Documents\Visual Studio 2008\Projects\RedirectBuilder\RedirectBuilder\obj\Debug\RedirectBuilder.pdb

@@ -1,0 +1,3 @@
+* Redirect Builder
+
+This was a small app that created an html file designed to redirect a user's file to a shared drive.  Early SharePoint implementation restricted files of certain size, so RedirectBuilder created a link to location on shared drive where file was kept.  Then user could check in redirect file to keep track of check in/check out history and version changes.
